@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.notice_cache/
+temp_vendor/
+THIRD_PARTY_NOTICES.html
+THIRD_PARTY_NOTICES.txt
